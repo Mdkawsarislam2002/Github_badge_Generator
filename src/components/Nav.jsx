@@ -7,7 +7,7 @@ const Nav = () => {
         <div className="text-xl font-bold">KIY</div>
         <div id="menu">
           <a
-            href="https://github.com/Mdkawsarislam2002/GitHub-Badge-generator"
+            href="https://github.com/Mdkawsarislam2002/Github_badge_Generator"
             target="_blank"
           >
             <GithubIcon />

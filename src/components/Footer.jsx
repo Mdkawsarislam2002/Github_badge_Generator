@@ -12,7 +12,11 @@ const Footer = () => {
           <a className="m-2" href="https://www.facebook.com/mdkawsarislam2002/">
             <img src="https://img.shields.io/badge/Md Kawsar Islam Yeasin-323330?style=for-the-badge&logo=Facebook&logoColor=white" />
           </a>
-          <a className="m-2" href="https://github.com/mdkawsar2002">
+          <a
+            target="_blank"
+            className="m-2"
+            href="https://github.com/Mdkawsarislam2002"
+          >
             <img src="https://img.shields.io/badge/Md Kawsar Islam Yeasin-323330?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <a

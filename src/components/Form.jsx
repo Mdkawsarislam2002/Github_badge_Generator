@@ -40,7 +40,7 @@ const Form = () => {
                 htmlFor="username"
                 className="dark:text-gray-200 block text-sm text-gray-800"
               >
-                Badge Name
+                Title
               </label>
 
               <input
