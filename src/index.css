@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .toggle {
+    @apply h-14 overflow-visible border-2;
+  }
+}
